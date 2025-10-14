@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mandeep Duhan 👋</h1>
+<h1 align="center">Hi, I'm Mandeep 👋</h1>
 <p align="center">🚀 BCA Student | Passionate about Coding, DSA & Web Development</p>
 
 ---
