@@ -7,3 +7,7 @@
 <p align="center">
 I'm a <b>BCA Final-Year Student</b> passionate about backend development with <b>Java</b> and <b>Spring Boot</b>. I enjoy building real-world projects, contributing to <b>OpenMRS</b>, solving DSA problems, and currently exploring <b>React</b>.
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/imandeepduhan/imandeepduhan/output/github-contribution-grid-snake.svg)
